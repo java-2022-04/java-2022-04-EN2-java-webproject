@@ -22,7 +22,7 @@ Spring Webblog project for Java bootcamps @ AW Academy
   * programm against interfaces and decouple your code
   * DRY - dont repeat your self
   * use unit testing if applicable
-4. presentation
+4. Presentation
   * present your user stories individually, by user story like you would do at the end of a scrum sprint
     * show the result and explain what problems you had to solve
     * explain what you learned in a nutshell 
@@ -31,7 +31,7 @@ Spring Webblog project for Java bootcamps @ AW Academy
   * make sure you are taking your breaks
   * have fun working together
 
-
+Create a web blog app that has the following features.
 
 ### User Stories:
 * As a user, I can read the blog posts in chronological order (newest first) to get an insight into the thoughts of the administrators.
