@@ -8,26 +8,26 @@ Spring Webblog project for Java bootcamps @ AW Academy
 * user stories are following prioritised as they appear in the user story list bellow
 
 ### What are we looking heer for?
-**1. Structured work process/flow**
+1. **Structured work process/flow**
   * you act as a self organised team
   * daily Scrum to be organised with Erik
   * collaborating with git
-**2. Learn**
+2. **Learn**
   * face new technologies and make use of them if needed (ask for help if needed)
     * time box try your discovery, so that you dont lose valuable time and go down a unwanted path here 
   * identify weaknesses in your approach and learn from them together within your team
   * use the strengths you have within your team
-**3. Code quality**
+3. **Code quality**
   * separate concerns
   * programm against interfaces and decouple your code
   * DRY - dont repeat your self
   * use unit testing if applicable
-**4. Presentation**
+4. **Presentation**
   * present your user stories individually, by user story like you would do at the end of a scrum sprint
     * show the result and explain what problems you had to solve
     * explain what you learned in a nutshell 
     * make sure while demonstrating your code, people can actually follow ;)
-**5. Fun**
+5. **Fun**
   * make sure you are taking your breaks
   * have fun working together
 
