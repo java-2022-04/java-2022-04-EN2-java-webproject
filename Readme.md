@@ -45,3 +45,7 @@ Spring Webblog project for Java bootcamps @ AW Academy
 * As an administrator, I can delete comments to ensure the quality of my blog's content.
 * As an administrator, I can edit posts to correct mistakes.
 * As an administrator, I can delete posts including the associated comments in order to correct gross errors.
+
+
+### Hints and Stuff
+* you could use Thymeleaf to build your html. Just check out https://www.baeldung.com/thymeleaf-in-spring-mvc as well as the commits df646a72ff04407a4e98027438a666f050c8357b and 61e2f7c30a7bf2bf4ac93e659195792ab9858029 at https://github.com/java-2022-04/java-2022-04-EN2-java-webapplication-PART-2/commits/master
